@@ -15,7 +15,7 @@
 
 - '서브 도메인'방식과 '서브 폴더'방식이 있으며, 서브 도메인은 웹 페이지들을 하위 도메인으로 확장 관리한다.
 
-![domain](https://github.com/openstack9332/web_roadmap/blob/42b15bf79151056a9836a35779739c461dd37079/HTML/images/image13.png)
+![domain](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image13.png)
 
 구글의 경우 도메인 별로 점수를 부여해 순위를 두는데, 서브 도메인 방식의 경우 관리 도메인이 4개가 되므로, 각 도메인 별로
 점수를 관리해야하기 때문에 관리 방식은 서브 폴더 방식이 유리하다.
