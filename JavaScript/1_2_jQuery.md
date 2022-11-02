@@ -16,7 +16,7 @@
 
 웹 기술 조사 서비스인 [W3Techs](https://w3techs.com/)에 따르면 2022년 1월 1일 현재 78.2% 사용률을 차지하고 있다.
 
-![W3Techs](https://github.com/openstack9332/web_roadmap/blob/fe24bbc3034b673fcc1433b21cb1dfdd39f1f958/JavaScript/images/image1.png)
+![W3Techs](https://github.com/jiwonYun9332/Front-End/blob/main/JavaScript/images/image1.png)
 
 그러나 시간이 지나면서 다양한 라이브러리의 등장으로 제이쿼리을 사용하지 않는 추세이다.
 
