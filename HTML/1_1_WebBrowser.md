@@ -24,14 +24,14 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **브라우저 역할**
 
-![브라우저 역할](https://github.com/openstack9332/web_roadmap/blob/855c13a901d6850935f02064d468839471e74fb5/HTML/images/image2.png)
+![브라우저 역할](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image2.jpg)
 
 1. 사용자가 입력한(원하는) 웹페이지, 이미지, 동영상 등의 자원을 서버에게 요청하는 역할
 2. 서버로부터 전달(응답)받은 자원을 화면에 출력하는 역할
 
 **브라우저 구성 요소**
 
-![브라우저 구성 요소](https://github.com/openstack9332/web_roadmap/blob/612202ccb12e0f352f0963410b3b19c714c1220d/HTML/images/image3.png)
+![브라우저 구성 요소](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image3.jpg)
 
 <table style="border-collapse: collapse; width: 100%; height: 180px;" border="1">
     <tbody>
@@ -70,7 +70,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **렌더링 엔진의 동작 원리**
 
-![렌더링 엔진의 동작 원리](https://github.com/openstack9332/web_roadmap/blob/b045d66cfb53a391994176e3f12639354773efa3/HTML/images/image4.png)
+![렌더링 엔진의 동작 원리](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image4.jpg)
 
 1. 브라우저는 서버로부터 HTML 문서를 모두 전달 받는다.
 
@@ -88,13 +88,13 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **렌더링 엔진의 동작 과정 예시(웹킷)**
 
-![렌더링 엔진의 동작 과정 예시](https://github.com/openstack9332/web_roadmap/blob/2fc7c77fa61c4d989b621817cf2d8177df3d04bf/HTML/images/image5.png)
+![렌더링 엔진의 동작 과정 예시](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image5.jpg)
 
 <br>
 
 <h3>1. DOM 트리 구축<h3>
 
-![DOM 트리 구축](https://github.com/openstack9332/web_roadmap/blob/a47cae8329edba9a8a8be659aa27c4b5b669fb47/HTML/images/image6.png)
+![DOM 트리 구축](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image6.jpg)
 
  - 브라우저는 서버로부터 HTML 문서를 모두 전달 받는다.
   
@@ -106,7 +106,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 <h3>2. CSSOM(CSS Object Model) 생성 </h3>
 
-![CSSOM 생성](https://github.com/openstack9332/web_roadmap/blob/a47cae8329edba9a8a8be659aa27c4b5b669fb47/HTML/images/image7.png)
+![CSSOM 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image7.jpg)
 
 - 1의 DOM을 생성할 때 거쳤던 과정을 그대로 CSS에 반복한다.
 
@@ -116,7 +116,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
   
 <h3>3. 렌더 트리(DOM + CSSOM) 생성
 
-![렌더 트리(DOM + CSSOM) 생성](https://github.com/openstack9332/web_roadmap/blob/a47cae8329edba9a8a8be659aa27c4b5b669fb47/HTML/images/image8.png)
+![렌더 트리(DOM + CSSOM) 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image8.jpg)
 
 - DOM Tree가 구축이 되어가는 동안 브라우저는 DOM Tree를 기반으로 렌더 트리를 생성한다. 문서를 시각적인 구성 요소로 만들어주는 역할을 한다.
   
