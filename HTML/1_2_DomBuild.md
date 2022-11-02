@@ -48,7 +48,7 @@ DOM(문서 개체 모델)트리는 완전히 구문 분석된 HTML 페이지의 
 ```
 <br>
 
-![DOM 트리](https://github.com/openstack9332/web_roadmap/blob/509d9dfe6c22d879cd6171366d2cf05134efb7d7/HTML/images/image9.png)
+![DOM 트리](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image9.png)
   
 **2. CSSOM 트리 구성**
 
@@ -71,7 +71,7 @@ footer { display: none; }
 
 <br>
 
-![CSSOM 트리](https://github.com/openstack9332/web_roadmap/blob/d747b352690c40de6ea1bb2c38c6829341158fc4/HTML/images/image10.png)
+![CSSOM 트리](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image10.png)
 
 CSS는 "렌더링 차단 리소스"로 간주된다. 이는 리소스를 완전히 파싱하지 않고는 렌더 트리를 구성할 수 없음을 의미한다.
 
@@ -93,7 +93,7 @@ JavaScript는 세 번째 단계로 정리되어 있지만, 사실 JavaScript는 
 
 즉, 보이는 콘텐츠만 캡처하고 예를 들어 CSS를 사용하여 숨겨진 요소는 포함하지 않는다. **display: none**
 
-![렌더 트리 생성](https://github.com/openstack9332/web_roadmap/blob/261d9c628de69ab3e9b0e873917737504111eb84/HTML/images/image11.png)
+![렌더 트리 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image11.png)
 
 **5. 레이아웃 생성**
 
