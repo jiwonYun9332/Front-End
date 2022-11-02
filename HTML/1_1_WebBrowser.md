@@ -24,14 +24,14 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **브라우저 역할**
 
-![브라우저 역할](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image2.jpg)
+![브라우저 역할](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image2.png)
 
 1. 사용자가 입력한(원하는) 웹페이지, 이미지, 동영상 등의 자원을 서버에게 요청하는 역할
 2. 서버로부터 전달(응답)받은 자원을 화면에 출력하는 역할
 
 **브라우저 구성 요소**
 
-![브라우저 구성 요소](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image3.jpg)
+![브라우저 구성 요소](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image3.png)
 
 <table style="border-collapse: collapse; width: 100%; height: 180px;" border="1">
     <tbody>
@@ -70,7 +70,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **렌더링 엔진의 동작 원리**
 
-![렌더링 엔진의 동작 원리](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image4.jpg)
+![렌더링 엔진의 동작 원리](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image4.png)
 
 1. 브라우저는 서버로부터 HTML 문서를 모두 전달 받는다.
 
@@ -88,13 +88,13 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 **렌더링 엔진의 동작 과정 예시(웹킷)**
 
-![렌더링 엔진의 동작 과정 예시](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image5.jpg)
+![렌더링 엔진의 동작 과정 예시](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image5.png)
 
 <br>
 
 <h3>1. DOM 트리 구축<h3>
 
-![DOM 트리 구축](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image6.jpg)
+![DOM 트리 구축](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image6.png)
 
  - 브라우저는 서버로부터 HTML 문서를 모두 전달 받는다.
   
@@ -106,7 +106,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
 
 <h3>2. CSSOM(CSS Object Model) 생성 </h3>
 
-![CSSOM 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image7.jpg)
+![CSSOM 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image7.png)
 
 - 1의 DOM을 생성할 때 거쳤던 과정을 그대로 CSS에 반복한다.
 
@@ -116,7 +116,7 @@ HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기
   
 <h3>3. 렌더 트리(DOM + CSSOM) 생성
 
-![렌더 트리(DOM + CSSOM) 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image8.jpg)
+![렌더 트리(DOM + CSSOM) 생성](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image8.png)
 
 - DOM Tree가 구축이 되어가는 동안 브라우저는 DOM Tree를 기반으로 렌더 트리를 생성한다. 문서를 시각적인 구성 요소로 만들어주는 역할을 한다.
   
