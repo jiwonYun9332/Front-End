@@ -10,7 +10,7 @@ SPA형태는 브라우저에 최초에 한 번 페이지 전체를 로드하고,
 > 전통적인 페이지 vs 단일 페이지 애플리케이션 비교
 
 <p align="center">
-  <img src="https://github.com/openstack9332/web_roadmap/blob/55db19040113de62125e4751c3b7eafde65403c2/HTML/images/image14.png">
+  <img src="https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image14.png">
 </p>
 
 예전부터 개발자들은 지속적으로 웹 서비스와 개발 방식을 발전시켜왔다. CSS, JS 리소스 등을 CDN 형태로 캐싱 및 압축하고, View에서 **템플릿엔진** 들을 사용하고, 초기의 SPA 개념인 
@@ -19,7 +19,7 @@ Backbone.js, Angular.js 라이브러리들이 나왔고, 지금은 템플릿 개
 > 컴포넌트 개념
 
 <p align="center">
-  <img src="https://github.com/openstack9332/web_roadmap/blob/55db19040113de62125e4751c3b7eafde65403c2/HTML/images/image15.png">
+  <img src="https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image15.png">
 </p>
 
 위의 이미지 처럼 컴포넌트들이 모여 한 페이지를 작성하고, 특정 부분만 데이터를 바인딩하는 개념이다.
