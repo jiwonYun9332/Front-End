@@ -16,7 +16,7 @@ WWW, W3, Web
 
 HTML 문서와 이미지, 멀티미디어 파일 등 월드 와이드 웹을 기반으로 한 인터넷의 컨텐츠를 검색 및 열람하기 위한 응용 프로그램의 총칭
 
-![인터넷 브라우저 이미지](https://github.com/openstack9332/web_roadmap/blob/cfd7f872663606fc2ac963bce26c9e446746ef98/HTML/images/image1.jpg)
+![인터넷 브라우저 이미지](https://github.com/jiwonYun9332/Front-End/blob/main/HTML/images/image1.jpg)
 
 브라우저는 인터넷에서 특정 정보로 이동할 수 있는 주소 입력창(=인터페이스)이 있고, 서버와 HTTP로 정보를 주고 받을 수 있는 네트워크 모듈도 포함하고 있다.
 
